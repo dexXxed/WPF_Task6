@@ -70,7 +70,7 @@
 			// 
 			// Form1
 			// 
-			this.ClientSize = new System.Drawing.Size(414, 194);
+			this.ClientSize = new System.Drawing.Size(414, 187);
 			this.Controls.Add(this.textBox3);
 			this.Controls.Add(this.label2);
 			this.Controls.Add(this.button2);
